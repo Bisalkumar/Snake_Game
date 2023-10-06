@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from tkinter import *
 import random
 from enum import Enum
